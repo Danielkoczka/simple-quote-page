@@ -1,0 +1,11 @@
+body {
+    background: url(assets/freedom.jpg) no-repeat center center fixed;
+    background-size: cover;
+  }
+  p {
+      text-align: center;
+      position: relative;
+      font-size: 33px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      top: 150px
+  }
